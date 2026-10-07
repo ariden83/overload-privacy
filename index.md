@@ -6,7 +6,7 @@ title: Overload — Privacy Policy
 
 [Version française](fr.html)
 
-Effective date: October 6, 2026
+Effective date: October 7, 2026
 
 Overload ("the app") is published by **ariden** ("we"). This policy explains what information the app accesses, how it is used and where it is kept.
 
@@ -15,6 +15,8 @@ Overload ("the app") is published by **ariden** ("we"). This policy explains wha
 ## 1. No data leaves your device
 
 The app does not request the Internet permission and has no network access. It contains no advertising, no analytics, no crash reporting and no third-party tracking service. It does not require an account.
+
+The app includes Google Play's billing library, used only for the optional purchase described in section 5. Because the app has no network permission, this library cannot send any data from the app itself.
 
 We, the publisher, receive no data from the app and have no access to anything stored on your device.
 
@@ -42,23 +44,32 @@ This information is used only to provide the app's features. It is deleted when 
 
 The app can export your sequences, markers, lists and settings to a backup file. The file is written only to the location you choose in the system file picker (for example your device storage or a cloud storage app you selected). Where that file goes afterwards is under your control and subject to the policy of the storage you chose. Importing reads only the file you select.
 
-## 5. Permissions
+## 5. Optional purchase (Overload Pro)
+
+Overload can be used for free, with some limits. Overload Pro, which lifts them, is an optional one-time purchase made through Google Play.
+
+- The purchase is handled entirely by Google Play, through the Play Store app on your device. Your payment details are processed by Google and are never shared with us.
+- The app only learns from Google Play whether you own Overload Pro, and remembers it on your device so that Pro also works offline.
+- How Google handles this information is described in the [Google Privacy Policy](https://policies.google.com/privacy).
+
+## 6. Permissions
 
 - **Accessibility service**: described in section 2.
 - **Notifications**: to remind you to enable the service.
+- **Google Play billing**: lets the Play Store app process the optional purchase (section 5).
 
-## 6. Children
+## 7. Children
 
 The app is not directed at children under 13 and does not knowingly collect any information from anyone, children included.
 
-## 7. Your rights
+## 8. Your rights
 
 Because we do not collect or hold any personal data, there is no data for us to access, correct or delete on your behalf. You remain in full control of the information stored by the app on your device and can delete it at any time as described in section 3.
 
-## 8. Changes to this policy
+## 9. Changes to this policy
 
 If this policy changes, the new version will be published on this page with a new effective date.
 
-## 9. Contact
+## 10. Contact
 
 For any question about this policy or the app: **ariden.apps@gmail.com**

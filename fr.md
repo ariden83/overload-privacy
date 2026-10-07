@@ -6,7 +6,7 @@ title: Overload — Politique de confidentialité
 
 [English version](./)
 
-Date d'entrée en vigueur : 6 octobre 2026
+Date d'entrée en vigueur : 7 octobre 2026
 
 Overload (« l'application ») est publiée par **ariden** (« nous »). Cette politique explique à quelles informations l'application accède, comment elle les utilise et où elles sont conservées.
 
@@ -15,6 +15,8 @@ Overload (« l'application ») est publiée par **ariden** (« nous »). Cette p
 ## 1. Aucune donnée ne quitte votre appareil
 
 L'application ne demande pas la permission Internet et n'a aucun accès au réseau. Elle ne contient ni publicité, ni outil de statistiques, ni rapport de plantage, ni service de suivi tiers. Elle ne nécessite aucun compte.
+
+L'application intègre la bibliothèque de facturation de Google Play, utilisée uniquement pour l'achat facultatif décrit à la section 5. Comme l'application n'a aucune permission réseau, cette bibliothèque ne peut envoyer aucune donnée depuis l'application elle-même.
 
 Nous, l'éditeur, ne recevons aucune donnée de l'application et n'avons accès à rien de ce qui est enregistré sur votre appareil.
 
@@ -42,23 +44,32 @@ Ces informations servent uniquement au fonctionnement de l'application. Elles so
 
 L'application peut exporter vos séquences, repères, listes et réglages dans un fichier de sauvegarde. Ce fichier est écrit uniquement à l'emplacement que vous choisissez dans le sélecteur de fichiers du système (par exemple le stockage de votre appareil ou une application de stockage en ligne que vous avez choisie). Ce que devient ensuite ce fichier dépend de vous et de la politique du stockage choisi. L'import lit uniquement le fichier que vous sélectionnez.
 
-## 5. Permissions
+## 5. Achat facultatif (Overload Pro)
+
+Overload s'utilise gratuitement, avec quelques limites. Overload Pro, qui les lève, est un achat unique facultatif effectué via Google Play.
+
+- L'achat est entièrement géré par Google Play, au moyen de l'application Play Store de votre appareil. Vos informations de paiement sont traitées par Google et ne nous sont jamais transmises.
+- L'application apprend seulement de Google Play si vous possédez Overload Pro, et le mémorise sur votre appareil pour que Pro fonctionne aussi hors ligne.
+- La façon dont Google traite ces informations est décrite dans les [Règles de confidentialité de Google](https://policies.google.com/privacy?hl=fr).
+
+## 6. Permissions
 
 - **Service d'accessibilité** : décrit à la section 2.
 - **Notifications** : pour vous rappeler d'activer le service.
+- **Facturation Google Play** : permet à l'application Play Store de traiter l'achat facultatif (section 5).
 
-## 6. Enfants
+## 7. Enfants
 
 L'application ne s'adresse pas aux enfants de moins de 13 ans et ne collecte sciemment aucune information auprès de quiconque, enfants compris.
 
-## 7. Vos droits
+## 8. Vos droits
 
 Comme nous ne collectons ni ne conservons aucune donnée personnelle, nous n'avons aucune donnée à consulter, corriger ou supprimer pour vous. Vous gardez le contrôle total des informations enregistrées par l'application sur votre appareil et pouvez les supprimer à tout moment, comme indiqué à la section 3.
 
-## 8. Modifications de cette politique
+## 9. Modifications de cette politique
 
 Si cette politique change, la nouvelle version sera publiée sur cette page avec une nouvelle date d'entrée en vigueur.
 
-## 9. Contact
+## 10. Contact
 
 Pour toute question sur cette politique ou sur l'application : **ariden.apps@gmail.com**
