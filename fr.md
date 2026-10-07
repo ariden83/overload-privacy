@@ -4,7 +4,7 @@ title: Overload — Politique de confidentialité
 
 # Overload — Politique de confidentialité
 
-[English version](./)
+**Politique de confidentialité** · [Conditions d'utilisation](terms-fr.html) · [FAQ](faq-fr.html) · [Mentions légales](legal-fr.html) · [English version](./)
 
 Date d'entrée en vigueur : 7 octobre 2026
 

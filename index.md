@@ -4,7 +4,7 @@ title: Overload — Privacy Policy
 
 # Overload — Privacy Policy
 
-[Version française](fr.html)
+**Privacy policy** · [Terms of use](terms.html) · [FAQ](faq.html) · [Legal notice](legal.html) · [Version française](fr.html)
 
 Effective date: October 7, 2026
 
