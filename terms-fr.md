@@ -1,14 +1,14 @@
 ---
-title: Overload — Conditions d'utilisation
+title: OverScreen — Conditions d'utilisation
 ---
 
-# Overload — Conditions d'utilisation
+# OverScreen — Conditions d'utilisation
 
 [Politique de confidentialité](fr.html) · **Conditions d'utilisation** · [FAQ](faq-fr.html) · [Mentions légales](legal-fr.html) · [English version](terms.html)
 
 Date d'entrée en vigueur : 7 octobre 2026
 
-Ces conditions s'appliquent à l'application Overload (« l'application »), publiée par **ariden** (« nous »). En installant ou en utilisant l'application, vous les acceptez. Si vous ne les acceptez pas, n'utilisez pas l'application.
+Ces conditions s'appliquent à l'application OverScreen (« l'application »), publiée par **ariden** (« nous »). En installant ou en utilisant l'application, vous les acceptez. Si vous ne les acceptez pas, n'utilisez pas l'application.
 
 ## 1. Licence
 
@@ -26,9 +26,9 @@ L'application rejoue des gestes dans d'autres applications à votre place. Vous 
 
 L'application ne fonctionne que si vous activez vous-même son service d'accessibilité, après une explication dans l'application. Son usage est décrit dans la [politique de confidentialité](fr.html). Vous pouvez le désactiver à tout moment dans les réglages de votre appareil.
 
-## 4. Version gratuite et Overload Pro
+## 4. Version gratuite et OverScreen Pro
 
-L'application s'utilise gratuitement, avec quelques limites (nombre de séquences, de repères et de listes, et fonctions réservées à Pro). Lorsqu'il est proposé, Overload Pro est un achat unique facultatif effectué via Google Play, qui lève ces limites sur les appareils liés à votre compte Google. L'achat, son paiement et ses remboursements sont régis par les conditions d'utilisation de Google Play.
+L'application s'utilise gratuitement, avec quelques limites (nombre de séquences, de repères et de listes, et fonctions réservées à Pro). Lorsqu'il est proposé, OverScreen Pro est un achat unique facultatif effectué via Google Play, qui lève ces limites sur les appareils liés à votre compte Google. L'achat, son paiement et ses remboursements sont régis par les conditions d'utilisation de Google Play.
 
 ## 5. Absence de garantie
 

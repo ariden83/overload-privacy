@@ -1,16 +1,16 @@
 ---
-title: Overload — Privacy Policy
+title: OverScreen — Privacy Policy
 ---
 
-# Overload — Privacy Policy
+# OverScreen — Privacy Policy
 
 **Privacy policy** · [Terms of use](terms.html) · [FAQ](faq.html) · [Legal notice](legal.html) · [Version française](fr.html)
 
 Effective date: October 7, 2026
 
-Overload ("the app") is published by **ariden** ("we"). This policy explains what information the app accesses, how it is used and where it is kept.
+OverScreen ("the app") is published by **ariden** ("we"). This policy explains what information the app accesses, how it is used and where it is kept.
 
-**In short: Overload does not collect, transmit or share any personal data. Everything stays on your device.**
+**In short: OverScreen does not collect, transmit or share any personal data. Everything stays on your device.**
 
 ## 1. No data leaves your device
 
@@ -22,7 +22,7 @@ We, the publisher, receive no data from the app and have no access to anything s
 
 ## 2. Accessibility service
 
-Overload provides an accessibility service. It is used only for the features you trigger yourself:
+OverScreen provides an accessibility service. It is used only for the features you trigger yourself:
 
 - **Recording and replaying gestures**: while you record a sequence, the app captures the taps and swipes you perform on its recording layer, then replays them on screen when you ask it to.
 - **Watching on-screen markers**: when you start watching, the app takes screenshots of the current screen at regular intervals and compares a few small areas (the "markers" you defined) with their saved appearance, in order to start the associated sequence. Screenshots are analysed in memory and discarded immediately; they are never saved or sent anywhere.
@@ -44,12 +44,12 @@ This information is used only to provide the app's features. It is deleted when 
 
 The app can export your sequences, markers, lists and settings to a backup file. The file is written only to the location you choose in the system file picker (for example your device storage or a cloud storage app you selected). Where that file goes afterwards is under your control and subject to the policy of the storage you chose. Importing reads only the file you select.
 
-## 5. Optional purchase (Overload Pro)
+## 5. Optional purchase (OverScreen Pro)
 
-Overload can be used for free, with some limits. Overload Pro, which lifts them, is an optional one-time purchase made through Google Play.
+OverScreen can be used for free, with some limits. OverScreen Pro, which lifts them, is an optional one-time purchase made through Google Play.
 
 - The purchase is handled entirely by Google Play, through the Play Store app on your device. Your payment details are processed by Google and are never shared with us.
-- The app only learns from Google Play whether you own Overload Pro, and remembers it on your device so that Pro also works offline.
+- The app only learns from Google Play whether you own OverScreen Pro, and remembers it on your device so that Pro also works offline.
 - How Google handles this information is described in the [Google Privacy Policy](https://policies.google.com/privacy).
 
 ## 6. Permissions

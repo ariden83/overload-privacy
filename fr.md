@@ -1,16 +1,16 @@
 ---
-title: Overload — Politique de confidentialité
+title: OverScreen — Politique de confidentialité
 ---
 
-# Overload — Politique de confidentialité
+# OverScreen — Politique de confidentialité
 
 **Politique de confidentialité** · [Conditions d'utilisation](terms-fr.html) · [FAQ](faq-fr.html) · [Mentions légales](legal-fr.html) · [English version](./)
 
 Date d'entrée en vigueur : 7 octobre 2026
 
-Overload (« l'application ») est publiée par **ariden** (« nous »). Cette politique explique à quelles informations l'application accède, comment elle les utilise et où elles sont conservées.
+OverScreen (« l'application ») est publiée par **ariden** (« nous »). Cette politique explique à quelles informations l'application accède, comment elle les utilise et où elles sont conservées.
 
-**En bref : Overload ne collecte, ne transmet et ne partage aucune donnée personnelle. Tout reste sur votre appareil.**
+**En bref : OverScreen ne collecte, ne transmet et ne partage aucune donnée personnelle. Tout reste sur votre appareil.**
 
 ## 1. Aucune donnée ne quitte votre appareil
 
@@ -22,7 +22,7 @@ Nous, l'éditeur, ne recevons aucune donnée de l'application et n'avons accès 
 
 ## 2. Service d'accessibilité
 
-Overload fournit un service d'accessibilité. Il sert uniquement aux fonctions que vous déclenchez vous-même :
+OverScreen fournit un service d'accessibilité. Il sert uniquement aux fonctions que vous déclenchez vous-même :
 
 - **Enregistrer et rejouer des gestes** : pendant l'enregistrement d'une séquence, l'application capte les touchers et glissements que vous effectuez sur sa couche d'enregistrement, puis les rejoue à l'écran quand vous le demandez.
 - **Surveiller des repères à l'écran** : quand vous lancez une surveillance, l'application prend à intervalles réguliers des captures de l'écran affiché et compare quelques petites zones (les « repères » que vous avez définis) à leur apparence enregistrée, afin de lancer la séquence associée. Les captures sont analysées en mémoire puis supprimées aussitôt ; elles ne sont jamais enregistrées ni envoyées.
@@ -44,12 +44,12 @@ Ces informations servent uniquement au fonctionnement de l'application. Elles so
 
 L'application peut exporter vos séquences, repères, listes et réglages dans un fichier de sauvegarde. Ce fichier est écrit uniquement à l'emplacement que vous choisissez dans le sélecteur de fichiers du système (par exemple le stockage de votre appareil ou une application de stockage en ligne que vous avez choisie). Ce que devient ensuite ce fichier dépend de vous et de la politique du stockage choisi. L'import lit uniquement le fichier que vous sélectionnez.
 
-## 5. Achat facultatif (Overload Pro)
+## 5. Achat facultatif (OverScreen Pro)
 
-Overload s'utilise gratuitement, avec quelques limites. Overload Pro, qui les lève, est un achat unique facultatif effectué via Google Play.
+OverScreen s'utilise gratuitement, avec quelques limites. OverScreen Pro, qui les lève, est un achat unique facultatif effectué via Google Play.
 
 - L'achat est entièrement géré par Google Play, au moyen de l'application Play Store de votre appareil. Vos informations de paiement sont traitées par Google et ne nous sont jamais transmises.
-- L'application apprend seulement de Google Play si vous possédez Overload Pro, et le mémorise sur votre appareil pour que Pro fonctionne aussi hors ligne.
+- L'application apprend seulement de Google Play si vous possédez OverScreen Pro, et le mémorise sur votre appareil pour que Pro fonctionne aussi hors ligne.
 - La façon dont Google traite ces informations est décrite dans les [Règles de confidentialité de Google](https://policies.google.com/privacy?hl=fr).
 
 ## 6. Permissions

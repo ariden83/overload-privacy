@@ -1,14 +1,14 @@
 ---
-title: Overload — Terms of use
+title: OverScreen — Terms of use
 ---
 
-# Overload — Terms of use
+# OverScreen — Terms of use
 
 [Privacy policy](./) · **Terms of use** · [FAQ](faq.html) · [Legal notice](legal.html) · [Version française](terms-fr.html)
 
 Effective date: October 7, 2026
 
-These terms apply to the Overload app ("the app"), published by **ariden** ("we"). By installing or using the app, you accept them. If you do not accept them, do not use the app.
+These terms apply to the OverScreen app ("the app"), published by **ariden** ("we"). By installing or using the app, you accept them. If you do not accept them, do not use the app.
 
 ## 1. Licence
 
@@ -26,9 +26,9 @@ The app replays gestures in other apps on your behalf. You are solely responsibl
 
 The app works only if you enable its accessibility service yourself, after an in-app explanation. Its use is described in the [privacy policy](./). You can disable it at any time in your device's settings.
 
-## 4. Free version and Overload Pro
+## 4. Free version and OverScreen Pro
 
-The app is free to use, with some limits (number of sequences, markers and lists, and features reserved to Pro). When it is offered, Overload Pro is an optional one-time purchase made through Google Play, which lifts these limits on the devices linked to your Google account. The purchase, its payment and refunds are governed by the Google Play terms of service.
+The app is free to use, with some limits (number of sequences, markers and lists, and features reserved to Pro). When it is offered, OverScreen Pro is an optional one-time purchase made through Google Play, which lifts these limits on the devices linked to your Google account. The purchase, its payment and refunds are governed by the Google Play terms of service.
 
 ## 5. No warranty
 
