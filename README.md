@@ -2,7 +2,7 @@
 
 This repository holds the public web pages of **OverScreen**, an Android app by **ariden** that records your taps and swipes and replays them, on demand or when a chosen area of the screen appears.
 
-The pages are published with GitHub Pages at <https://ariden83.github.io/overload-privacy/>. The app's source code lives in a separate, private repository.
+The pages are published with GitHub Pages at <https://ariden83.github.io/overscreen/>. The app's source code lives in a separate, private repository.
 
 ## Pages
 
@@ -10,14 +10,14 @@ Every page exists in English and in French, and each one links to all the others
 
 | Page | English | French |
 |---|---|---|
-| Privacy policy | [`/`](https://ariden83.github.io/overload-privacy/) (`index.md`) | [`fr.html`](https://ariden83.github.io/overload-privacy/fr.html) (`fr.md`) |
-| Terms of use | [`terms.html`](https://ariden83.github.io/overload-privacy/terms.html) | [`terms-fr.html`](https://ariden83.github.io/overload-privacy/terms-fr.html) |
-| FAQ | [`faq.html`](https://ariden83.github.io/overload-privacy/faq.html) | [`faq-fr.html`](https://ariden83.github.io/overload-privacy/faq-fr.html) |
-| Legal notice | [`legal.html`](https://ariden83.github.io/overload-privacy/legal.html) | [`legal-fr.html`](https://ariden83.github.io/overload-privacy/legal-fr.html) |
+| Privacy policy | [`/`](https://ariden83.github.io/overscreen/) (`index.md`) | [`fr.html`](https://ariden83.github.io/overscreen/fr.html) (`fr.md`) |
+| Terms of use | [`terms.html`](https://ariden83.github.io/overscreen/terms.html) | [`terms-fr.html`](https://ariden83.github.io/overscreen/terms-fr.html) |
+| FAQ | [`faq.html`](https://ariden83.github.io/overscreen/faq.html) | [`faq-fr.html`](https://ariden83.github.io/overscreen/faq-fr.html) |
+| Legal notice | [`legal.html`](https://ariden83.github.io/overscreen/legal.html) | [`legal-fr.html`](https://ariden83.github.io/overscreen/legal-fr.html) |
 
 ## Addresses in use: do not move them
 
-These addresses are used outside this repository, so the files must keep their names, and the repository keeps the name `overload-privacy` from the app's first name (GitHub Pages does not redirect a renamed repository):
+These addresses are used outside this repository, so the files must keep their names; renaming this repository changes them all, because GitHub Pages does not redirect a renamed repository:
 
 - the **privacy policy** (`/` and `fr.html`) is the privacy policy URL of the Google Play listing, and the app opens it from its consent screen;
 - the **FAQ** and the **terms of use** are opened from the guide of the app;
